@@ -1,1 +1,1 @@
-# tampashrimp.github.io
+# [tampashrimp.github.io](tampashrimp.com)
