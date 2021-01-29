@@ -3,6 +3,7 @@ h1 {
   text-align: center; 
   font-family: monospace;
   font-size: xxx-large; 
+  background: lavenderblush; 
 }
 
 .contact {
@@ -20,3 +21,4 @@ h1 {
   padding-right: 2em;
   font-size: large;
 }
+
