@@ -12,3 +12,8 @@ text-align: center;
 .banner {
   padding-left: 25%;
 }
+
+.intro {
+  padding-left: 2em;
+  padding-right 2em;
+}
