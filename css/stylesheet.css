@@ -53,3 +53,32 @@ h1 {
 .card button:hover {
   opacity: 0.7;
 }
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 30%;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.price {
+  color: grey;
+  font-size: 2em;
+}
+
+.card button {
+  border: none;
+  outline: 1;
+  padding: 2em;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 2em;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
