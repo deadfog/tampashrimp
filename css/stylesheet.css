@@ -27,7 +27,7 @@ h1 {
 }
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 100%;
+  max-width: 30%;
   margin: auto;
   text-align: center;
   font-family: arial;
@@ -47,7 +47,7 @@ h1 {
   text-align: center;
   cursor: pointer;
   width: 100%;
-  font-size: 18px;
+  font-size: 2em;
 }
 
 .card button:hover {
