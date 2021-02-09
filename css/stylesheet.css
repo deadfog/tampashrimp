@@ -40,8 +40,8 @@ h1 {
 
 .card button {
   border: none;
-  outline: 0;
-  padding: 2em;
+  outline: 1;
+  padding: 50%;
   color: white;
   background-color: #000;
   text-align: center;
