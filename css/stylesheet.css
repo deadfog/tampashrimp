@@ -60,7 +60,7 @@ h1 {
 .card button:hover {
   opacity: 0.7;
 }
-}
+
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 30%;
@@ -94,6 +94,11 @@ h1 {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  padding: 2em;
+}
+
+.spacer{
+  padding: 2em;
 }
 
 /* Mobile rules for css */
