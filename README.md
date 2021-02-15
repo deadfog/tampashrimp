@@ -1,1 +1,1 @@
-# [deadfog.github.io/tampashrimp](https://www.tampashrimp.com)
+# [deadfog.github.io/tampashrimp](https://www.deadfog.github.io/tampashrimp)
