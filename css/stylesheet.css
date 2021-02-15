@@ -90,11 +90,11 @@ h1 {
 }
 
 .spacer{
-  padding: 2em;
+  padding: 3em;
 }
 
 /* Mobile rules for css */
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 800px) {
   .canvas {
     display: flex;
     flex-direction: column;
