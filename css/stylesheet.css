@@ -85,4 +85,15 @@ h1 {
 
 .canvas{
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+/* Mobile rules for css */
+@media only screen and (max-width: 600px) {
+  .canvas {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
 }
